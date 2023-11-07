@@ -8,5 +8,15 @@ In addition to this dataset we also have another dataset which tells us about cu
 
 
 ![img1](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/cd73e194-602f-432c-b986-4bd335f4f45c)    
-from the above Plot we see the customer with highest number of transactions and customer with highest number of sales.
+from the above Plot we see the customer with highest number of transactions and customer with highest number of sales.  
+
+2) Now let us look into transaction amount
+![img2](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/2082fbb7-7547-40ea-b6e2-2f8e19b71793)
+
+The tranasaction amount distribution is a steady distribution.  
+
+
+
+
+
 
