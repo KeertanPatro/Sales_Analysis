@@ -7,5 +7,6 @@ In addition to this dataset we also have another dataset which tells us about cu
 1) The first Insight is about the customers, there are **6889** unique customers.They have made multiple transactions over the years.
 
 
-![img1](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/cd73e194-602f-432c-b986-4bd335f4f45c)  
+![img1](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/cd73e194-602f-432c-b986-4bd335f4f45c)    
+from the above Plot we see the customer with highest number of transactions and customer with highest number of sales.
 
