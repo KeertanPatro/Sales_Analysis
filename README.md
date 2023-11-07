@@ -48,6 +48,15 @@ We have response dataset which tells about the response of the customer about th
 ![img7](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/50637cce-8d6c-4a7f-a29f-ae2a7aae1b35)    
 
 
+### Time Series Analysis  
+Now let us look into sales patterns with respect to time.  
+
+![img8](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/a316a898-ece9-4847-828b-4d4069d81714)  
+
+The sales have been steady but there has been sudden decline in sales.  
+
+
+
 
 
 
