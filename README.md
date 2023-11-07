@@ -31,7 +31,31 @@ In this plot we see the transaction amount for top customers we see that custome
 5) Now let us look into relation between total transaction to total sales
 ![img5](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/1a9cd8ac-e20e-4efc-9606-e5354b2024f4)
 
-From the above plot we see that that relation between total transaction and total count have a linear relationship.   
+From the above plot we see that that relation between total transaction and total count have a linear relationship.  
+
+### Customer Segmentation 
+
+We need to segment our customers based on their transactions for that we will use KMeans Clustering. To find optimal clusters we will use silhoutte score.
+After doing the Kmeans clustering we found the optimal number of clusters found are 4.  
+
+![img6](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/361abaf0-97b6-4f22-adb3-f9b9b5110ba7)  
+The above plot shows the distribution of points with segement labelling after cluster formation.  
+
+### Churn Analysis  
+
+We have response dataset which tells about the response of the customer about the store. let us look into customer response , 0 means that customer has not responded while 1 means that the customer has responded.  
+
+![img7](https://github.com/KeertanPatro/Sales_Analysis/assets/122021282/50637cce-8d6c-4a7f-a29f-ae2a7aae1b35)    
+
+
+
+
+
+
+
+
+
+
 
 
 
